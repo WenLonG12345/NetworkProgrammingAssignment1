@@ -6,6 +6,11 @@
 > Guava: Google Core Libraries for Java
 > Link: https://github.com/google/guava
 
-![NextIPAddress-2](https://user-images.githubusercontent.com/39330565/54080675-3482f680-4330-11e9-8865-d49dba9f22cc.PNG)
+1. Find IP addresses using hostname
 ![IPFinder-output](https://user-images.githubusercontent.com/39330565/54080676-351b8d00-4330-11e9-84ab-3fd002990354.PNG)
+
+2. Input a valid range of IP addresses and search for hostname
 ![NextIPAddress-1](https://user-images.githubusercontent.com/39330565/54080677-351b8d00-4330-11e9-8a64-e9c3edf6271f.PNG)
+![NextIPAddress-2](https://user-images.githubusercontent.com/39330565/54080675-3482f680-4330-11e9-8865-d49dba9f22cc.PNG)
+
+
